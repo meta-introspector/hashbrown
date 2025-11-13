@@ -6,7 +6,7 @@ build:
 	cargo build
 
 nix-build:
-	nix develop .#devShells.default --command cargo build
+	nix develop --command cargo build
 
 nix-flake-build:
 	nix build
