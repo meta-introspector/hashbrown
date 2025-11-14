@@ -1,0 +1,55 @@
+--- Log for submodule: hashbrown ---
+Running 'cargo update' in "/data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown"...
+     Locking 0 packages to latest compatible versions
+'cargo update' succeeded.
+Running 'cargo vendor' in "/data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown"...
+   Vendoring allocator-api2 v0.2.21 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/allocator-api2-0.2.21) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/allocator-api2
+   Vendoring bitflags v2.10.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.10.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/bitflags
+   Vendoring bumpalo v3.19.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bumpalo-3.19.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/bumpalo
+   Vendoring cfg-if v1.0.4 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cfg-if-1.0.4) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/cfg-if
+   Vendoring crossbeam-deque v0.8.6 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-deque-0.8.6) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/crossbeam-deque
+   Vendoring crossbeam-epoch v0.9.18 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-epoch-0.9.18) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/crossbeam-epoch
+   Vendoring crossbeam-utils v0.8.21 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-utils-0.8.21) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/crossbeam-utils
+   Vendoring either v1.15.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/either
+   Vendoring equivalent v1.0.2 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/equivalent
+   Vendoring fnv v1.0.7 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fnv-1.0.7) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/fnv
+   Vendoring foldhash v0.2.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/foldhash
+   Vendoring getrandom v0.3.4 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.4) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/getrandom
+   Vendoring lazy_static v1.5.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lazy_static-1.5.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/lazy_static
+   Vendoring libc v0.2.177 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.177) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/libc
+   Vendoring parking_lot_core v0.9.12 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.9.12) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/parking_lot_core
+   Vendoring ppv-lite86 v0.2.21 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.21) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/ppv-lite86
+   Vendoring proc-macro2 v1.0.103 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.103) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/proc-macro2
+   Vendoring quote v1.0.42 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.42) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/quote
+   Vendoring r-efi v5.3.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r-efi-5.3.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/r-efi
+   Vendoring rand v0.9.2 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand-0.9.2) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rand
+   Vendoring rand_chacha v0.9.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rand_chacha
+   Vendoring rand_core v0.9.3 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.9.3) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rand_core
+   Vendoring rayon v1.11.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-1.11.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rayon
+   Vendoring rayon-core v1.13.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.13.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rayon-core
+   Vendoring redox_syscall v0.5.18 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redox_syscall-0.5.18) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/redox_syscall
+   Vendoring rustc-std-workspace-alloc v1.0.1 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-std-workspace-alloc-1.0.1) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rustc-std-workspace-alloc
+   Vendoring rustc-std-workspace-core v1.0.1 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-std-workspace-core-1.0.1) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/rustc-std-workspace-core
+   Vendoring serde v1.0.228 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/serde
+   Vendoring serde_core v1.0.228 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/serde_core
+   Vendoring serde_derive v1.0.228 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_derive-1.0.228) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/serde_derive
+   Vendoring serde_test v1.0.177 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_test-1.0.177) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/serde_test
+   Vendoring smallvec v1.15.1 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.15.1) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/smallvec
+   Vendoring syn v2.0.110 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-2.0.110) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/syn
+   Vendoring unicode-ident v1.0.22 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.22) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/unicode-ident
+   Vendoring wasip2 v1.0.1+wasi-0.2.4 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasip2-1.0.1+wasi-0.2.4) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/wasip2
+   Vendoring windows-link v0.2.1 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/windows-link-0.2.1) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/windows-link
+   Vendoring wit-bindgen v0.46.0 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-0.46.0) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/wit-bindgen
+   Vendoring zerocopy v0.8.27 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-0.8.27) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/zerocopy
+   Vendoring zerocopy-derive v0.8.27 (/data/data/com.termux.nix/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27) to /data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown/vendor/zerocopy-derive
+To use vendored sources, add this to your .cargo/config.toml for this project:
+
+[source.crates-io]
+replace-with = "vendored-sources"
+
+[source.vendored-sources]
+directory = "vendor"
+'cargo vendor' succeeded.
+Running 'cargo2nix -o Cargo.nix' in "/data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/submodules/hashbrown"...
+'cargo2nix' succeeded.
+Submodule tasks completed successfully!
