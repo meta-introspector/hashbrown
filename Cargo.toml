@@ -32,6 +32,7 @@ allocator-api2 = { version = "0.2.9", optional = true, default-features = false,
 # Equivalent trait which can be shared with other hash table implementations.
 # NB: this is a public dependency because `Equivalent` is re-exported!
 equivalent = { version = "1.0", optional = true, default-features = false }
+parking_lot_core = "0.9.10"
 
 # serde v1.0.220 is the first version that released with `serde_core`.
 # This is required to avoid conflict with other `serde` users which may require an older version.
