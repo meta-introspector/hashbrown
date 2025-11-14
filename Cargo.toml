@@ -88,3 +88,5 @@ inline-more = []
 features = ["nightly", "rayon", "serde", "raw-entry"]
 rustdoc-args = ["--generate-link-to-definition"]
 [workspace]
+[package.metadata.cargo2nix]
+cargo2nix_path = "/data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/target/debug/cargo2nix"
