@@ -10,7 +10,7 @@ keywords = ["hash", "no_std", "hashmap", "swisstable"]
 categories = ["data-structures", "no-std"]
 exclude = [".github", "/ci/*"]
 edition = "2021"
-rust-version = "1.65.0"
+# rust-version = "1.65.0"
 
 [dependencies]
 # For the default hasher
@@ -87,6 +87,6 @@ inline-more = []
 [package.metadata.docs.rs]
 features = ["nightly", "rayon", "serde", "raw-entry"]
 rustdoc-args = ["--generate-link-to-definition"]
-[workspace]
+#[workspace]
 [package.metadata.cargo2nix]
 cargo2nix_path = "/data/data/com.termux.nix/files/home/pick-up-nix2/vendor/rust/cargo2nix/target/debug/cargo2nix"
