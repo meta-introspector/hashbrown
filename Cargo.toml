@@ -45,7 +45,7 @@ rand = { version = "0.9.0", features = ["small_rng"] }
 rayon = "1.2"
 fnv = "1.0.7"
 serde_test = "1.0"
-bumpalo = { version = "3.13.0", features = ["allocator-api2"] }
+bumpalo = { version = "3.13.0", features = ["allocator_api"] }
 
 [target.'cfg(unix)'.dev-dependencies]
 libc = "0.2.155"
